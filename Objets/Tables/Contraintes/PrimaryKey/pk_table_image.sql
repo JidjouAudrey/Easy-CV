@@ -1,0 +1,3 @@
+ALTER TABLE Image
+ADD
+PRIMARY KEY (id_img);

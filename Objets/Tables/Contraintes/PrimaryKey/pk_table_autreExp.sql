@@ -1,0 +1,3 @@
+ALTER TABLE Autre_Exp
+ADD
+PRIMARY KEY (id_AutExp);

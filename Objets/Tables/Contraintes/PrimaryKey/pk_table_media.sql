@@ -1,0 +1,3 @@
+ALTER TABLE Media
+ADD
+PRIMARY KEY (id_media);
