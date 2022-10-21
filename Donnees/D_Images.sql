@@ -1,10 +1,10 @@
-INSERT INTO Images  (id_img,nom_img,format_img,id_media)
+INSERT INTO Images(id_img,nom_img,format_img,id_media)
 VALUES (1,'Leila pic','jpg',1);
 
-INSERT INTO Images  (id_img,nom_img,format_img,id_media)
+INSERT INTO Images(id_img,nom_img,format_img,id_media)
 VALUES (2,'Fred pic','jpg',2);
 
-INSERT INTO Images  (id_img,nom_img,format_img,id_media)
+INSERT INTO Images(id_img,nom_img,format_img,id_media)
 VALUES (3,'Valdez pic','png',3);
 
 INSERT INTO Images  (id_img,nom_img,format_img,id_media)

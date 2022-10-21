@@ -18,9 +18,7 @@ PROMPT ***********************************Creation et configuration des utilisat
 PROMPT ***********************************************************************************************
 PROMPT ***********************************Creation des tables*****************************************
 @Objets/mainTable
+@Donnees/MainDonnees
 SPOOL OFF
 
 SELECT table_name FROM user_tables; 
-INSERT INTO Utilisateur(id_utilisateur,nom_utilisateur,mot_passe)values(1,'peughouia','fred');
-INSERT INTO Utilisateur(id_utilisateur,nom_utilisateur,mot_passe)values(2,'tefokou','1234');
-INSERT INTO Profiles(id_profil,nom,prenom,adresse,date_naiss,statut_social,id_utilisateur)values(1,'tefokou','fred','douala','30/01/2001','majeur','1');

@@ -1,5 +1,5 @@
-CREATE TABLE Competence (
+CREATE TABLE Competences (
     id_competence INT NOT NULL,
-    nom_competence VARCHAR(15),
+    nom_competence VARCHAR(35),
     id_profil INT NOT NULL
 );

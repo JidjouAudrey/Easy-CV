@@ -1,4 +1,4 @@
-CREATE TABLE Image(
+CREATE TABLE Images(
     id_img INT NOT NULL,
     nom_img VARCHAR(15),
     format_img VARCHAR(5),

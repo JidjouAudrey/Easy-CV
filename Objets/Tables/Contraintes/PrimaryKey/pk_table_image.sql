@@ -1,3 +1,3 @@
-ALTER TABLE Image
+ALTER TABLE Images
 ADD
 PRIMARY KEY (id_img);
