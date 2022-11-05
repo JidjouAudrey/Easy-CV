@@ -49,4 +49,8 @@ PROMPT******************** Creation de la table utilisateur*********************
 @Objets/Tables/Table_utilisateur
 
 
+PROMPT******************** Creation de la table reseaux sociaux******************************************
+@Objets/Tables/Table_reseaux_sociaux
+
+
 @Objets/Tables/Contraintes/mainConstraint

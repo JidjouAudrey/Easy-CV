@@ -44,6 +44,10 @@ PROMPT **************INSERTION DES projets******************
 @Donnees/D_Projet
 
 
+PROMPT **************INSERTION DES Reseaux Sociaux******************
+@Donnees/D_reseaux_sociaux
+
+
 
 
 

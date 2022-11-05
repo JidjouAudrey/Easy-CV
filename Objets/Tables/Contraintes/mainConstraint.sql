@@ -69,7 +69,12 @@ PROMPT******************** ajout de contraintes pk table utilisateur************
 
 
 
-PROMPT**************************LES CLES ETRANGERES DES TABLE********************************
+PROMPT******************** ajout de contraintes pk table reseaux sociaux*****************************
+@Objets/Tables/Contraintes/PrimaryKey/pk_table_reseaux_sociaux
+
+
+
+PROMPT**************************LES CLES ETRANGERES DES TABLES********************************
 
 
 
@@ -127,6 +132,10 @@ PROMPT******************** ajout de contraintes fk table profiles***************
 
 PROMPT******************** ajout de contraintes fk table projet**********************************
 @Objets/Tables/Contraintes/ForeignKey/fk_table_projet
+
+
+PROMPT******************** ajout de contraintes fk table reseaux sociaux**********************************
+@Objets/Tables/Contraintes/ForeignKey/fk_table_reseaux_sociaux
 
 
 
